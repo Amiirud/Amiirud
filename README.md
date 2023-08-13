@@ -6,5 +6,5 @@ projects and updates! ## 🌐 Socials: [![Instagram](https://img.shields.io/badg
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Amiirud&theme=tokyonight&hide_border=false)
-<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirud&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirud&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 💎
